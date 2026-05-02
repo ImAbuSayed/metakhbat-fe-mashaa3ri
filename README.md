@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Metakhbat Fe Mashaa3ri |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 03, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/metakhbat-fe-mashaa3ri/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
