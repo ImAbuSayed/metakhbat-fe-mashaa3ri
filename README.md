@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/metakhbat-fe-mashaa3ri/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get License For Metakhbat Fe Mashaa3ri](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Obtain a Music License for Metakhbat Fe Mashaa3ri](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
