@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Metakhbat Fe Mashaa3ri
+
+This log tracks the cryptographic history and versioning for the song **Metakhbat Fe Mashaa3ri** (metakhbat-fe-mashaa3ri).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T22:38:39.681277 | `v1` | `d18788c53d1d6e030fded35230a12fd641af95b0dc4ffa7b9db135960b7e0efa` | `9740ced4527cd90886a9e45cb92caca6b69f5310941f1f2c139e37945e6a8594` | `2026-05-08_metakhbat-fe-mashaa3ri-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
